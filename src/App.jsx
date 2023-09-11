@@ -7,6 +7,11 @@ function App() {
 
   return (
     <>
+      <div className="public grid grid-cols-2 gap-x-10">
+        <div><img src="service1.jpg" alt="" /></div>
+        <div><img src="service2.jpg" alt="" /></div>
+        <div><img src="service3.jpg" alt="" /></div>
+      </div>
       <div>
         <a href="https://vitejs.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
