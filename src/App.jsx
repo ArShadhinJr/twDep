@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <div className="public grid grid-cols-2 gap-x-10">
+      <div className="public grid grid-cols-3 gap-x-10">
         <div><img src="service1.jpg" alt="" /></div>
         <div><img src="service2.jpg" alt="" /></div>
         <div><img src="service3.jpg" alt="" /></div>
